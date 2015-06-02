@@ -140,6 +140,12 @@ $this->fontdata = array(
 		'I' => "FreeMonoOblique.ttf",
 		'BI' => "FreeMonoBoldOblique.ttf",
 		),
+    "opensans" => array(
+        'R' => "OpenSans-Regular.ttf",
+        'B' => "OpenSans-Bold.ttf",
+        'I' => "OpenSans-Italic.ttf",
+        'BI' => "OpenSans-BoldItalic.ttf",
+    ),
 
 
 /* OCR-B font for Barcodes */
